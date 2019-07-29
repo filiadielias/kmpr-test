@@ -1,0 +1,34 @@
+{
+	"app":{
+		"host":"localhost",
+		"port":8000,
+		"protocol":"http",
+		"address":"http://localhost:8000"
+	},
+	"database":{
+		"host":"localhost",
+		"port":5433,
+		"user":"test",
+		"password":"test",
+		"dbname":"kumparan"
+	},
+	"elasticsearch":{
+		"host":"http://3.0.175.253",
+		"port":9200
+	},
+	"redis":{
+		"host":"localhost",
+		"port":6379
+	},
+	"nsq":{
+		"producer":{
+			"host":"localhost",
+			"port":4150
+		},
+		"consumer":{
+			"host":"localhost",
+			"port":4161
+		}
+		
+	}
+}kUmP@r@N
