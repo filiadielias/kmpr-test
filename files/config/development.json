@@ -1,9 +1,9 @@
 {
 	"app":{
-		"host":"172.31.19.87",
+		"host":"localhost",
 		"port":8000,
 		"protocol":"http",
-		"address":"http://172.31.19.87:8000"
+		"address":"http://localhost:8000"
 	},
 	"database":{
 		"host":"13.250.122.120",
@@ -22,11 +22,11 @@
 	},
 	"nsq":{
 		"producer":{
-			"host":"localhost",
+			"host":"3.0.147.116",
 			"port":4150
 		},
 		"consumer":{
-			"host":"localhost",
+			"host":"3.0.147.116",
 			"port":4161
 		}
 		
