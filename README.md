@@ -1,7 +1,9 @@
 # kmpr-test
 kumparan technical assessment
 
-Hosted on Amazon Web Services, use below endpoints to test the services.
+Stack : Golang, PostgreSQL, ElasticSearch, NSQ (message queue), Redis (cache).
+
+Hosted on AWS, to test the services please use endpoints below.
 
 **Add News**
 ----
