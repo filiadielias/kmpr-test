@@ -24,7 +24,7 @@ Hosted on Amazon Web Services, use below endpoints to test the services.
 ----
 * **URL**
 
-  ``_http://3.0.147.116:8000/news?page=1_``
+  _``http://3.0.147.116:8000/news?page=1``_
 
 * **Method**
 
