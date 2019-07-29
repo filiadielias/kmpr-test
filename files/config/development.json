@@ -1,15 +1,15 @@
 {
 	"app":{
-		"host":"localhost",
+		"host":"172.31.19.87",
 		"port":8000,
 		"protocol":"http",
-		"address":"http://localhost:8000"
+		"address":"http://172.31.19.87:8000"
 	},
 	"database":{
-		"host":"localhost",
-		"port":5433,
-		"user":"test",
-		"password":"test",
+		"host":"13.250.122.120",
+		"port":5432,
+		"user":"kumparan",
+		"password":"kUmP@r@N",
 		"dbname":"kumparan"
 	},
 	"elasticsearch":{
@@ -17,7 +17,7 @@
 		"port":9200
 	},
 	"redis":{
-		"host":"localhost",
+		"host":"3.0.96.55",
 		"port":6379
 	},
 	"nsq":{
