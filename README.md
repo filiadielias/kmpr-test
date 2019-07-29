@@ -1,6 +1,8 @@
 # kmpr-test
 kumparan technical assessment
 
+Hosted on Amazon Web Services, use below endpoints to test the services.
+
 **Add News**
 ----
 * **URL**
