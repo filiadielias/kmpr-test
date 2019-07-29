@@ -1,6 +1,23 @@
 # kmpr-test
 kumparan technical assessment
 
+### How To Run This Project
+
+```bash
+# go get
+go get github.com/filiadielias/kmpr-test
+
+# go to directory
+cd $GOPATH/src/github.com/filiadielias/kmpr-test
+
+# run Project
+go run app.go
+
+```
+
+
+## Project Information
+
 Stack : Golang, PostgreSQL, ElasticSearch, NSQ (message queue), Redis (cache).
 
 Hosted on AWS, to test the services please use endpoints below.
